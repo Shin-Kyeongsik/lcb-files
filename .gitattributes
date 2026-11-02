@@ -1,0 +1,5 @@
+# 텍스트 파일은 항상 LF 줄바꿈 (Windows에서 편집해도 Bash 스크립트가 깨지지 않게)
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary

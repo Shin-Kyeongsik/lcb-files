@@ -1,0 +1,300 @@
+2026-11-01 09:01:10 ERROR Payment API timeout
+2026-11-01 09:02:24 INFO  Server started
+2026-11-01 09:03:31 INFO  Backup completed
+2026-11-01 09:04:26 INFO  Cache refreshed
+2026-11-01 09:05:08 INFO  Page requested: /home
+2026-11-01 09:06:38 INFO  Server started
+2026-11-01 09:07:50 WARN  Disk usage 81%
+2026-11-01 09:08:03 INFO  Page requested: /products
+2026-11-01 09:09:23 INFO  Server started
+2026-11-01 09:10:51 ERROR Database connection failed
+2026-11-01 09:11:41 INFO  Scheduled job finished
+2026-11-01 09:13:09 INFO  Server started
+2026-11-01 09:14:35 INFO  User logout
+2026-11-01 09:15:36 ERROR File not found: config.yaml
+2026-11-01 09:15:58 ERROR File not found: config.yaml
+2026-11-01 09:16:20 INFO  User login
+2026-11-01 09:17:19 INFO  User logout
+2026-11-01 09:18:22 INFO  User login
+2026-11-01 09:19:05 INFO  Cache refreshed
+2026-11-01 09:20:25 WARN  Disk usage 81%
+2026-11-01 09:20:31 INFO  Server started
+2026-11-01 09:21:31 INFO  Server started
+2026-11-01 09:22:23 INFO  User login
+2026-11-01 09:23:08 INFO  User logout
+2026-11-01 09:24:20 INFO  Backup completed
+2026-11-01 09:25:15 INFO  User logout
+2026-11-01 09:26:44 INFO  Backup completed
+2026-11-01 09:27:36 INFO  Backup completed
+2026-11-01 09:27:53 INFO  User login
+2026-11-01 09:28:04 INFO  User logout
+2026-11-01 09:28:44 INFO  Scheduled job finished
+2026-11-01 09:29:16 WARN  Disk usage 81%
+2026-11-01 09:30:17 INFO  Scheduled job finished
+2026-11-01 09:31:33 INFO  Page requested: /home
+2026-11-01 09:31:44 ERROR Permission check failed for user 42
+2026-11-01 09:32:52 INFO  Scheduled job finished
+2026-11-01 09:34:05 INFO  Page requested: /home
+2026-11-01 09:35:10 WARN  Retrying connection
+2026-11-01 09:35:20 INFO  User login
+2026-11-01 09:36:20 WARN  Retrying connection
+2026-11-01 09:37:08 INFO  Server started
+2026-11-01 09:37:19 INFO  Page requested: /home
+2026-11-01 09:38:06 WARN  Slow response: 1.8s
+2026-11-01 09:39:21 INFO  User logout
+2026-11-01 09:40:39 INFO  Cache refreshed
+2026-11-01 09:41:59 INFO  Scheduled job finished
+2026-11-01 09:42:19 INFO  Scheduled job finished
+2026-11-01 09:42:51 INFO  Backup completed
+2026-11-01 09:43:45 INFO  User logout
+2026-11-01 09:44:55 INFO  Page requested: /products
+2026-11-01 09:45:44 INFO  Scheduled job finished
+2026-11-01 09:46:19 INFO  Backup completed
+2026-11-01 09:47:04 INFO  Cache refreshed
+2026-11-01 09:48:17 INFO  Backup completed
+2026-11-01 09:48:57 INFO  Page requested: /products
+2026-11-01 09:49:59 INFO  Server started
+2026-11-01 09:50:45 INFO  User logout
+2026-11-01 09:50:54 INFO  User login
+2026-11-01 09:51:26 INFO  Cache refreshed
+2026-11-01 09:52:34 INFO  Scheduled job finished
+2026-11-01 09:53:50 INFO  Page requested: /products
+2026-11-01 09:55:02 INFO  Cache refreshed
+2026-11-01 09:55:35 INFO  Page requested: /products
+2026-11-01 09:56:36 INFO  Backup completed
+2026-11-01 09:58:03 INFO  Scheduled job finished
+2026-11-01 09:59:25 INFO  Scheduled job finished
+2026-11-01 10:00:33 INFO  Page requested: /home
+2026-11-01 10:01:28 WARN  Disk usage 81%
+2026-11-01 10:02:51 INFO  Scheduled job finished
+2026-11-01 10:03:28 INFO  Cache refreshed
+2026-11-01 10:04:48 INFO  User logout
+2026-11-01 10:05:03 INFO  Server started
+2026-11-01 10:05:38 INFO  Scheduled job finished
+2026-11-01 10:06:14 INFO  Cache refreshed
+2026-11-01 10:06:46 INFO  Page requested: /home
+2026-11-01 10:07:49 INFO  Page requested: /products
+2026-11-01 10:08:58 INFO  Cache refreshed
+2026-11-01 10:10:03 INFO  Page requested: /home
+2026-11-01 10:10:13 INFO  Page requested: /products
+2026-11-01 10:11:17 INFO  Page requested: /home
+2026-11-01 10:12:46 INFO  User login
+2026-11-01 10:13:17 INFO  User logout
+2026-11-01 10:13:51 INFO  User login
+2026-11-01 10:13:58 WARN  Retrying connection
+2026-11-01 10:14:23 INFO  Scheduled job finished
+2026-11-01 10:15:12 WARN  Disk usage 81%
+2026-11-01 10:16:22 INFO  Server started
+2026-11-01 10:17:51 INFO  Cache refreshed
+2026-11-01 10:19:21 INFO  Scheduled job finished
+2026-11-01 10:19:53 INFO  Scheduled job finished
+2026-11-01 10:20:19 INFO  Backup completed
+2026-11-01 10:20:52 INFO  Page requested: /products
+2026-11-01 10:20:57 INFO  Page requested: /products
+2026-11-01 10:22:13 WARN  Disk usage 81%
+2026-11-01 10:22:34 INFO  Server started
+2026-11-01 10:23:51 INFO  Cache refreshed
+2026-11-01 10:24:56 INFO  User logout
+2026-11-01 10:25:35 WARN  Slow response: 1.8s
+2026-11-01 10:26:25 INFO  Page requested: /home
+2026-11-01 10:27:42 ERROR Payment API timeout
+2026-11-01 10:28:21 INFO  User login
+2026-11-01 10:29:02 INFO  Page requested: /home
+2026-11-01 10:29:27 INFO  Backup completed
+2026-11-01 10:30:42 INFO  User logout
+2026-11-01 10:30:56 INFO  Scheduled job finished
+2026-11-01 10:31:39 INFO  User logout
+2026-11-01 10:32:30 INFO  Backup completed
+2026-11-01 10:33:49 WARN  Slow response: 1.8s
+2026-11-01 10:34:07 INFO  User logout
+2026-11-01 10:35:06 INFO  Cache refreshed
+2026-11-01 10:36:12 INFO  Server started
+2026-11-01 10:36:40 INFO  Page requested: /home
+2026-11-01 10:38:04 INFO  Page requested: /products
+2026-11-01 10:38:16 INFO  User logout
+2026-11-01 10:39:06 INFO  User logout
+2026-11-01 10:40:19 INFO  User logout
+2026-11-01 10:40:48 INFO  User login
+2026-11-01 10:41:11 INFO  Page requested: /products
+2026-11-01 10:41:17 INFO  Page requested: /products
+2026-11-01 10:41:56 INFO  Cache refreshed
+2026-11-01 10:43:21 INFO  Backup completed
+2026-11-01 10:44:30 INFO  Page requested: /home
+2026-11-01 10:45:12 INFO  Page requested: /home
+2026-11-01 10:46:37 INFO  Page requested: /home
+2026-11-01 10:48:05 INFO  Server started
+2026-11-01 10:48:31 INFO  Backup completed
+2026-11-01 10:49:24 INFO  Page requested: /products
+2026-11-01 10:49:52 INFO  Backup completed
+2026-11-01 10:50:28 INFO  Backup completed
+2026-11-01 10:51:07 INFO  User login
+2026-11-01 10:51:34 INFO  Server started
+2026-11-01 10:52:13 INFO  User login
+2026-11-01 10:52:26 INFO  Page requested: /products
+2026-11-01 10:53:53 INFO  User logout
+2026-11-01 10:55:11 INFO  Backup completed
+2026-11-01 10:56:21 INFO  Page requested: /home
+2026-11-01 10:57:29 INFO  Scheduled job finished
+2026-11-01 10:57:34 INFO  User logout
+2026-11-01 10:57:59 INFO  User logout
+2026-11-01 10:58:58 INFO  User login
+2026-11-01 10:59:43 INFO  User login
+2026-11-01 11:00:48 WARN  Slow response: 1.8s
+2026-11-01 11:02:15 INFO  Cache refreshed
+2026-11-01 11:03:13 INFO  Scheduled job finished
+2026-11-01 11:03:38 INFO  Scheduled job finished
+2026-11-01 11:04:18 INFO  Scheduled job finished
+2026-11-01 11:04:51 INFO  User logout
+2026-11-01 11:06:15 INFO  Cache refreshed
+2026-11-01 11:07:43 INFO  User login
+2026-11-01 11:08:58 INFO  User logout
+2026-11-01 11:09:54 INFO  User login
+2026-11-01 11:10:04 INFO  Server started
+2026-11-01 11:10:16 WARN  Slow response: 1.8s
+2026-11-01 11:11:10 INFO  Server started
+2026-11-01 11:11:26 INFO  Backup completed
+2026-11-01 11:12:34 INFO  User login
+2026-11-01 11:13:50 INFO  Page requested: /home
+2026-11-01 11:14:47 INFO  Backup completed
+2026-11-01 11:15:37 INFO  Page requested: /home
+2026-11-01 11:16:09 INFO  Server started
+2026-11-01 11:17:27 INFO  Page requested: /home
+2026-11-01 11:17:50 INFO  Server started
+2026-11-01 11:19:01 INFO  User login
+2026-11-01 11:19:08 WARN  Retrying connection
+2026-11-01 11:19:23 INFO  Server started
+2026-11-01 11:19:34 INFO  User login
+2026-11-01 11:19:47 INFO  Server started
+2026-11-01 11:20:34 INFO  User login
+2026-11-01 11:21:10 INFO  Page requested: /home
+2026-11-01 11:21:29 INFO  User login
+2026-11-01 11:22:07 INFO  Page requested: /products
+2026-11-01 11:23:34 INFO  Page requested: /home
+2026-11-01 11:23:54 INFO  Backup completed
+2026-11-01 11:24:33 WARN  Slow response: 1.8s
+2026-11-01 11:24:44 INFO  Scheduled job finished
+2026-11-01 11:25:17 INFO  Backup completed
+2026-11-01 11:26:29 INFO  Page requested: /products
+2026-11-01 11:27:28 INFO  Backup completed
+2026-11-01 11:28:36 INFO  Scheduled job finished
+2026-11-01 11:30:03 INFO  Backup completed
+2026-11-01 11:31:25 INFO  Cache refreshed
+2026-11-01 11:32:32 INFO  User login
+2026-11-01 11:33:27 INFO  Page requested: /home
+2026-11-01 11:33:56 INFO  Backup completed
+2026-11-01 11:35:18 INFO  Page requested: /products
+2026-11-01 11:35:59 INFO  Backup completed
+2026-11-01 11:37:13 INFO  Server started
+2026-11-01 11:37:22 INFO  User login
+2026-11-01 11:38:38 INFO  User logout
+2026-11-01 11:39:54 INFO  Page requested: /home
+2026-11-01 11:40:30 INFO  Page requested: /home
+2026-11-01 11:40:38 WARN  Retrying connection
+2026-11-01 11:41:48 INFO  Cache refreshed
+2026-11-01 11:42:38 INFO  Scheduled job finished
+2026-11-01 11:43:21 INFO  Server started
+2026-11-01 11:43:58 INFO  Page requested: /home
+2026-11-01 11:45:21 INFO  Page requested: /products
+2026-11-01 11:45:53 INFO  Backup completed
+2026-11-01 11:46:41 INFO  Cache refreshed
+2026-11-01 11:47:18 INFO  Cache refreshed
+2026-11-01 11:47:41 INFO  Scheduled job finished
+2026-11-01 11:48:06 INFO  Page requested: /products
+2026-11-01 11:49:08 INFO  Backup completed
+2026-11-01 11:49:37 INFO  Page requested: /products
+2026-11-01 11:49:55 INFO  User login
+2026-11-01 11:51:16 INFO  Backup completed
+2026-11-01 11:52:27 INFO  Cache refreshed
+2026-11-01 11:52:51 INFO  Scheduled job finished
+2026-11-01 11:53:40 INFO  User login
+2026-11-01 11:53:45 INFO  Server started
+2026-11-01 11:54:13 INFO  Page requested: /products
+2026-11-01 11:54:19 INFO  Server started
+2026-11-01 11:55:37 ERROR File not found: config.yaml
+2026-11-01 11:56:23 INFO  Page requested: /home
+2026-11-01 11:56:39 INFO  Cache refreshed
+2026-11-01 11:57:03 ERROR File not found: config.yaml
+2026-11-01 11:58:17 INFO  Page requested: /home
+2026-11-01 11:59:24 INFO  Page requested: /home
+2026-11-01 12:00:07 ERROR File not found: config.yaml
+2026-11-01 12:01:04 INFO  Cache refreshed
+2026-11-01 12:01:21 INFO  Server started
+2026-11-01 12:02:04 INFO  Cache refreshed
+2026-11-01 12:02:54 INFO  Scheduled job finished
+2026-11-01 12:03:21 INFO  Scheduled job finished
+2026-11-01 12:04:10 INFO  User logout
+2026-11-01 12:04:19 WARN  Slow response: 1.8s
+2026-11-01 12:04:42 INFO  Backup completed
+2026-11-01 12:05:27 INFO  User logout
+2026-11-01 12:05:37 INFO  Scheduled job finished
+2026-11-01 12:06:10 INFO  Cache refreshed
+2026-11-01 12:06:55 INFO  Cache refreshed
+2026-11-01 12:08:03 INFO  Backup completed
+2026-11-01 12:08:12 INFO  User logout
+2026-11-01 12:09:21 INFO  User logout
+2026-11-01 12:10:25 INFO  Page requested: /products
+2026-11-01 12:11:27 INFO  Cache refreshed
+2026-11-01 12:12:48 INFO  Page requested: /products
+2026-11-01 12:14:18 INFO  Page requested: /products
+2026-11-01 12:14:52 INFO  Server started
+2026-11-01 12:15:04 INFO  Scheduled job finished
+2026-11-01 12:16:13 INFO  Server started
+2026-11-01 12:17:02 INFO  Backup completed
+2026-11-01 12:17:22 INFO  User login
+2026-11-01 12:18:28 INFO  Backup completed
+2026-11-01 12:18:39 INFO  User logout
+2026-11-01 12:19:33 ERROR Permission check failed for user 42
+2026-11-01 12:20:12 INFO  Cache refreshed
+2026-11-01 12:21:15 INFO  Page requested: /home
+2026-11-01 12:21:24 INFO  Backup completed
+2026-11-01 12:22:27 INFO  Backup completed
+2026-11-01 12:23:32 INFO  Page requested: /home
+2026-11-01 12:24:56 INFO  Server started
+2026-11-01 12:26:26 INFO  Scheduled job finished
+2026-11-01 12:27:30 INFO  Cache refreshed
+2026-11-01 12:27:57 INFO  Scheduled job finished
+2026-11-01 12:28:46 INFO  User logout
+2026-11-01 12:29:06 INFO  Server started
+2026-11-01 12:30:32 INFO  Page requested: /products
+2026-11-01 12:30:51 INFO  Page requested: /home
+2026-11-01 12:31:29 INFO  Server started
+2026-11-01 12:31:45 INFO  User logout
+2026-11-01 12:32:10 INFO  User login
+2026-11-01 12:33:38 INFO  Server started
+2026-11-01 12:34:54 INFO  User logout
+2026-11-01 12:36:06 INFO  Cache refreshed
+2026-11-01 12:37:21 INFO  User login
+2026-11-01 12:38:13 INFO  Page requested: /home
+2026-11-01 12:38:54 INFO  Backup completed
+2026-11-01 12:39:36 INFO  Page requested: /products
+2026-11-01 12:41:05 INFO  Backup completed
+2026-11-01 12:41:17 INFO  Page requested: /products
+2026-11-01 12:41:46 INFO  Scheduled job finished
+2026-11-01 12:42:22 INFO  Scheduled job finished
+2026-11-01 12:43:46 INFO  Server started
+2026-11-01 12:45:09 INFO  User login
+2026-11-01 12:45:40 WARN  Slow response: 1.8s
+2026-11-01 12:45:53 INFO  User logout
+2026-11-01 12:46:27 INFO  Server started
+2026-11-01 12:47:25 INFO  Scheduled job finished
+2026-11-01 12:48:29 INFO  User login
+2026-11-01 12:49:32 INFO  Cache refreshed
+2026-11-01 12:50:21 INFO  Page requested: /products
+2026-11-01 12:51:02 ERROR File not found: config.yaml
+2026-11-01 12:51:38 INFO  Scheduled job finished
+2026-11-01 12:52:37 INFO  Page requested: /products
+2026-11-01 12:53:22 INFO  Cache refreshed
+2026-11-01 12:54:17 INFO  Page requested: /home
+2026-11-01 12:55:29 INFO  Server started
+2026-11-01 12:56:18 INFO  Cache refreshed
+2026-11-01 12:57:32 INFO  Server started
+2026-11-01 12:58:07 INFO  Server started
+2026-11-01 12:59:30 INFO  Page requested: /home
+2026-11-01 13:00:17 INFO  Page requested: /products
+2026-11-01 13:01:27 INFO  User login
+2026-11-01 13:01:39 INFO  Page requested: /products
+2026-11-01 13:02:10 INFO  Backup completed
+2026-11-01 13:03:01 INFO  User logout
+2026-11-01 13:04:16 INFO  Scheduled job finished
+2026-11-01 13:05:40 ERROR File not found: config.yaml
+2026-11-01 13:06:16 INFO  Page requested: /products
